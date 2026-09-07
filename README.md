@@ -1,34 +1,24 @@
-<!-- ================================
-     BIWSHOJID HOLDAR - PROFILE README
-================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=220&section=header&text=Biwshojid%20Holdar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Lead%20%26%20CRM%20Automation%20Specialist&descAlignY=56&descSize=21" />
+<a href="https://github.com/biwshojidholdar/biwshojidholdar/blob/main/assets/github-profile-banner.png">
+  <img src="https://github.com/biwshojidholdar/biwshojidholdar/blob/main/assets/github-profile-banner.png?raw=1"
+       width="100%"
+       alt="Biwshojid Holdar - Lead and CRM Automation Specialist">
+</a>
 
-<br/>
-
-### 🚀 Building systems that turn manual lead processes into smart automation
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Lead+%26+CRM+Automation+Specialist;n8n+%7C+HubSpot+%7C+GoHighLevel;Lead+Capture+%E2%86%92+CRM+%E2%86%92+Follow-up+%E2%86%92+Growth;Building+Practical+Business+Automation+Systems" />
-
-<br/><br/>
+<br><br>
 
 <a href="https://www.linkedin.com/in/biwshojid-holdar-9431593a4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:abir.sarker.pro@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/biwshojidholdar">
-<img src="https://img.shields.io/badge/GitHub-My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=biwshojidholdar&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge"/>
 
 </div>
 
@@ -38,16 +28,25 @@
 
 I'm **Biwshojid Holdar**, a **Lead & CRM Automation Specialist** focused on building practical business automation systems.
 
-I work on workflows that help businesses automatically **capture leads, validate data, prevent duplicates, qualify prospects, route leads, update CRM records, trigger follow-ups, book meetings, and monitor sales activity**.
+I design workflows that help businesses:
 
-My focus is not simply connecting tools.
+- Capture leads automatically
+- Validate and clean lead data
+- Prevent duplicate CRM contacts
+- Qualify and score leads
+- Route leads to the right sales owner
+- Update CRM records automatically
+- Trigger follow-ups and notifications
+- Book meetings
+- Monitor sales activity
+- Reduce repetitive manual work
 
-> **I design complete workflows that reduce manual work and make lead management more organized, reliable, and scalable.**
+> **My goal is to build practical, scalable, and reliable automation systems that solve real business problems.**
 
 📍 Bangladesh  
-🌍 Available for Remote Opportunities  
+🌍 Open to Remote Opportunities  
 ⚙️ Focused on Lead & CRM Automation  
-🚀 Currently building advanced n8n automation projects
+🚀 Building hands-on automation projects
 
 ---
 
@@ -122,35 +121,35 @@ My focus is not simply connecting tools.
 
 ### ⚡ Automation
 
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
 
-<br/><br/>
+<br><br>
 
 ### 🧠 CRM
 
-<img src="https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoHighLevel-CRM-1377FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zoho-CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white"/>
+<img src="https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white">
+<img src="https://img.shields.io/badge/GoHighLevel-CRM-1377FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zoho-CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white">
 
-<br/><br/>
+<br><br>
 
 ### 🤖 AI & Logic
 
-<img src="https://img.shields.io/badge/OpenAI-AI%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Logic-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-Workflow%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-AI%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Logic-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-Workflow%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<br/><br/>
+<br><br>
 
 ### 🔌 Integration & Data
 
-<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Webhooks-Real--Time-00B8D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-Data-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/Webhooks-Real--Time-00B8D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Google%20Sheets-Data-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
 
 </div>
 
@@ -160,47 +159,31 @@ My focus is not simply connecting tools.
 
 <div align="center">
 
-## **20-Stage Lead & CRM Automation System**
+## 20-Stage Lead & CRM Automation System
 
 ### Lead Capture → Qualification → CRM → Routing → Follow-up → Sales Intelligence
 
-<br/>
+<br>
 
 <a href="https://github.com/biwshojidholdar/lead-crm-automation-20-stage-system">
-<img src="https://img.shields.io/badge/VIEW%20FULL%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VIEW%20FULL%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
-<br/>
-
-The system is designed around an end-to-end lead management workflow covering:
-
-**Lead Capture → Validation → Deduplication → Enrichment → AI Qualification → Lead Scoring → CRM Management → Routing → Outreach → Follow-up → Reply Understanding → Meeting Booking → Deal Management → SLA Monitoring → Lead Reactivation → Sales Intelligence → ROI Tracking → Error Handling**
+<br>
 
 ### 🔥 Key Capabilities
 
 | Capability | Purpose |
 |---|---|
 | 🎯 Lead Qualification | Identify and prioritize relevant leads |
-| 🔁 CRM Automation | Automatically create and update CRM data |
+| 🔁 CRM Automation | Create and update CRM data automatically |
 | 🧠 AI Logic | Analyze leads and replies using AI |
 | 📬 Automated Follow-up | Reduce missed sales follow-ups |
-| 👥 Smart Routing | Assign leads to the appropriate sales owner |
-| 📊 Sales Intelligence | Improve visibility into pipeline activity |
+| 👥 Smart Routing | Assign leads to the correct sales owner |
+| 📊 Sales Intelligence | Improve pipeline visibility |
 | ⚠️ Error Handling | Make workflows safer and more reliable |
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/biwshojidholdar/lead-crm-automation-20-stage-system">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=biwshojidholdar&repo=lead-crm-automation-20-stage-system&theme=transparent&hide_border=true"/>
-
-</a>
-
-</div>
 
 ---
 
