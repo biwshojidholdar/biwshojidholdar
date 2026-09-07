@@ -1,12 +1,4 @@
-<div align="center">
-
-<a href="https://github.com/biwshojidholdar/biwshojidholdar/blob/main/assets/github-profile-banner.png">
-  <img src="https://github.com/biwshojidholdar/biwshojidholdar/blob/main/assets/github-profile-banner.png?raw=1"
-       width="100%"
-       alt="Biwshojid Holdar - Lead and CRM Automation Specialist">
-</a>
-
-<br><br>
+![Biwshojid Holdar - Lead & CRM Automation Specialist](./assets/github-profile-banner.png)
 
 <a href="https://www.linkedin.com/in/biwshojid-holdar-9431593a4/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
