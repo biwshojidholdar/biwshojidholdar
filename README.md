@@ -1,68 +1,64 @@
-<!-- =========================
-     GITHUB PROFILE README
-     Biwshojid Holdar
-========================= -->
+<!-- ================================
+     BIWSHOJID HOLDAR - PROFILE README
+================================= -->
 
 <div align="center">
 
-<img src="assets/biwshojid-github-banner.png" width="100%" alt="Biwshojid Holdar - Lead & CRM Automation Specialist" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C63FF,100:00C9A7&height=220&section=header&text=Biwshojid%20Holdar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Lead%20%26%20CRM%20Automation%20Specialist&descAlignY=56&descSize=21" />
 
 <br/>
 
-# Hi 👋, I'm **Biwshojid Holdar**
+### 🚀 Building systems that turn manual lead processes into smart automation
 
-### Lead & CRM Automation Specialist
-**n8n • HubSpot • GoHighLevel • CRM Automation • Lead Management • AI Workflows**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Lead+%26+CRM+Automation+Specialist;n8n+%7C+HubSpot+%7C+GoHighLevel;Lead+Capture+%E2%86%92+CRM+%E2%86%92+Follow-up+%E2%86%92+Growth;Building+Practical+Business+Automation+Systems" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Building+Lead+%26+CRM+Automation+Systems;Automating+Lead+Capture%2C+Routing+%26+Follow-ups;Connecting+n8n%2C+CRM%2C+APIs+%26+AI;Turning+Manual+Sales+Processes+into+Smart+Workflows" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/biwshojid-holdar-9431593a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:biwshojid.holdar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:abir.sarker.pro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/biwshojidholdar">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=biwshojidholdar&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=biwshojidholdar&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I specialize in **Lead & CRM Automation**, building practical systems that help businesses capture, qualify, route, follow up with, and manage leads more efficiently.
+I'm **Biwshojid Holdar**, a **Lead & CRM Automation Specialist** focused on building practical business automation systems.
 
-My focus is not just connecting tools — I design **complete business workflows** that reduce manual work, improve response time, keep CRM data organized, and help sales teams operate more efficiently.
+I work on workflows that help businesses automatically **capture leads, validate data, prevent duplicates, qualify prospects, route leads, update CRM records, trigger follow-ups, book meetings, and monitor sales activity**.
 
-- 🔹 Building automation workflows with **n8n**
-- 🔹 Working with **HubSpot, GoHighLevel, APIs & Webhooks**
-- 🔹 Designing **Lead Capture, Qualification & Routing Systems**
-- 🔹 Automating **CRM Updates, Follow-ups & Notifications**
-- 🔹 Using **AI + Prompt Engineering** inside business workflows
-- 🔹 Practicing real-world **Lead-to-Revenue Automation**
-- 🔹 Continuously improving through hands-on projects
+My focus is not simply connecting tools.
 
-> **My goal:** Build automation systems that are practical, scalable, reliable, and useful for real businesses.
+> **I design complete workflows that reduce manual work and make lead management more organized, reliable, and scalable.**
+
+📍 Bangladesh  
+🌍 Available for Remote Opportunities  
+⚙️ Focused on Lead & CRM Automation  
+🚀 Currently building advanced n8n automation projects
 
 ---
 
-## 🎯 What I Specialize In
+# 🎯 Core Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔄 Lead Automation
+## 🔄 Lead Automation
+
 - Lead Capture
 - Data Validation
 - Duplicate Prevention
@@ -72,42 +68,47 @@ My focus is not just connecting tools — I design **complete business workflows
 - Smart Lead Routing
 
 </td>
-<td width="50%">
 
-### 🧠 CRM Automation
-- Contact & Company Management
+<td width="50%" valign="top">
+
+## 🧠 CRM Automation
+
+- Contact Management
+- Company Matching
 - CRM Data Synchronization
 - Pipeline Automation
 - Ownership Assignment
 - Deal Management
-- Follow-up Automation
 - SLA Monitoring
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Automation
+## 🤖 AI Workflows
+
 - Prompt Engineering
 - AI Lead Qualification
-- AI Reply Understanding
-- AI Sales Assistance
+- Reply Understanding
 - Intelligent Decision Logic
+- AI Sales Assistance
 - AI-Powered Follow-ups
 
 </td>
-<td width="50%">
 
-### 🔌 Integrations
+<td width="50%" valign="top">
+
+## 🔌 Integrations
+
 - REST APIs
 - Webhooks
 - Gmail
 - Google Sheets
 - Google Calendar
 - CRM Platforms
-- Third-party SaaS Tools
+- SaaS Integrations
 
 </td>
 </tr>
@@ -115,104 +116,107 @@ My focus is not just connecting tools — I design **complete business workflows
 
 ---
 
-## 🛠️ Automation & CRM Stack
+# 🛠️ Automation & CRM Stack
 
 <div align="center">
 
-### Core Automation
+### ⚡ Automation
 
-<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-<img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-Automation-6D00CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
 
-### CRM
+<br/><br/>
 
-<img src="https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-<img src="https://img.shields.io/badge/GoHighLevel-CRM-2F80ED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Zoho-CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" />
+### 🧠 CRM
 
-### AI & Logic
+<img src="https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoHighLevel-CRM-1377FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zoho-CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenAI-AI%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Logic-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-Workflow%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/><br/>
 
-### Integration & Data
+### 🤖 AI & Logic
 
-<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Webhooks-Real--Time%20Events-00B8D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google%20Sheets-Data-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-Email%20Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-AI%20Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Logic-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Workflow%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/><br/>
+
+### 🔌 Integration & Data
+
+<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-Real--Time-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-Data-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Calendar-Scheduling-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
 <div align="center">
 
-# 20-Stage Lead & CRM Automation System
+## **20-Stage Lead & CRM Automation System**
 
-**End-to-End Lead Management • CRM Automation • AI Qualification • Sales Follow-up**
+### Lead Capture → Qualification → CRM → Routing → Follow-up → Sales Intelligence
+
+<br/>
 
 <a href="https://github.com/biwshojidholdar/lead-crm-automation-20-stage-system">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-20--Stage%20Automation%20System-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20FULL%20PROJECT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="assets/lead-crm-architecture.png" width="100%" alt="20-Stage Lead and CRM Automation Architecture" />
+The system is designed around an end-to-end lead management workflow covering:
 
-### 🔥 What the System Covers
+**Lead Capture → Validation → Deduplication → Enrichment → AI Qualification → Lead Scoring → CRM Management → Routing → Outreach → Follow-up → Reply Understanding → Meeting Booking → Deal Management → SLA Monitoring → Lead Reactivation → Sales Intelligence → ROI Tracking → Error Handling**
 
-| Stage | Automation |
+### 🔥 Key Capabilities
+
+| Capability | Purpose |
 |---|---|
-| 01 | Lead Capture |
-| 02 | Data Cleaning & Validation |
-| 03 | Duplicate Detection |
-| 04 | Lead Enrichment |
-| 05 | AI Qualification |
-| 06 | Lead Scoring |
-| 07 | CRM Management |
-| 08 | Lead Routing |
-| 09 | Initial Outreach |
-| 10 | Automated Follow-up |
-| 11 | AI Reply Understanding |
-| 12 | Meeting Booking |
-| 13 | Deal Management |
-| 14 | SLA Monitoring |
-| 15 | Stale Lead Detection |
-| 16 | Lead Reactivation |
-| 17 | AI Sales Copilot |
-| 18 | Daily Sales Intelligence |
-| 19 | Lead Source ROI Tracking |
-| 20 | Production-Level Error Handling |
-
----
-
-## 🧩 Automation Philosophy
-
-<div align="center">
-
-<img src="assets/automation-philosophy.png" width="100%" alt="Automation Philosophy - People Process Technology Growth" />
-
-</div>
+| 🎯 Lead Qualification | Identify and prioritize relevant leads |
+| 🔁 CRM Automation | Automatically create and update CRM data |
+| 🧠 AI Logic | Analyze leads and replies using AI |
+| 📬 Automated Follow-up | Reduce missed sales follow-ups |
+| 👥 Smart Routing | Assign leads to the appropriate sales owner |
+| 📊 Sales Intelligence | Improve visibility into pipeline activity |
+| ⚠️ Error Handling | Make workflows safer and more reliable |
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/biwshojidholdar/lead-crm-automation-20-stage-system">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=biwshojidholdar&repo=lead-crm-automation-20-stage-system&theme=transparent&hide_border=true"/>
+
+</a>
+
+</div>
+
+---
+
+# 🧩 How I Think About Automation
+
 ```text
-BUSINESS PROBLEM
-      ↓
-PROCESS MAPPING
-      ↓
-AUTOMATION LOGIC
-      ↓
+Business Problem
+       ↓
+Process Mapping
+       ↓
+Workflow Architecture
+       ↓
+Automation Logic
+       ↓
 CRM + AI + APIs
-      ↓
-MONITORING & ERROR HANDLING
-      ↓
-MEASURABLE BUSINESS OUTCOME
+       ↓
+Monitoring & Error Handling
+       ↓
+Business Outcome
